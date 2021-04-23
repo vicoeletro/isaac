@@ -1,4 +1,6 @@
 1. Send money
 1a. Do not capture PI
 2. Receive confirmation
+2a. Send approval request to Data Officer
 3. Close transaction
+4. Send confirmation
